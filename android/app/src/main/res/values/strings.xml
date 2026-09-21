@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dashboard</string>
+    <string name="dashboard_title">Mi Dashboard</string>
+    <string name="action_refresh">Actualizar</string>
+    <string name="state_loading">Cargando…</string>
+    <string name="state_error">No se pudo cargar esta información</string>
+</resources>

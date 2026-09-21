@@ -1,0 +1,4 @@
+<resources>
+    <!-- Minimal platform theme: Compose (DashboardTheme) owns all real theming. -->
+    <style name="Theme.Dashboard" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
